@@ -32,7 +32,7 @@
                 </LinearGradientBrush>
             </Canvas.Background>
         </Canvas>
-        <Canvas HorizontalAlignment="Left" Height="100" Margin="63,201,0,0" VerticalAlignment="Top" Width="100" Background="#FFEC207D"/>
+        <Canvas HorizontalAlignment="Left" Height="100" Margin="61,173,0,0" VerticalAlignment="Top" Width="100" Background="#FFEC207D"/>
         <DockPanel HorizontalAlignment="Left" Height="100" LastChildFill="False" Margin="244,242,0,0" VerticalAlignment="Top" Width="100" Background="{DynamicResource {x:Static SystemColors.HotTrackBrushKey}}"/>
     </Grid>
 </Window>
